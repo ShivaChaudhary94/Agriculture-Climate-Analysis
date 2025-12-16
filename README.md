@@ -1,4 +1,4 @@
-# Agricultural Climate & Yield Analysis 🌾📊
+# Agricultural Climate Analysis 🌾📊
 
 ## Project Overview
 This project demonstrates an end-to-end cloud-based data analytics pipeline using AWS S3, Snowflake, and Power BI. 
@@ -26,7 +26,7 @@ Dataset → AWS S3 → Snowflake → Power BI
    - Yield Analysis
 
 ## Dashboards
-Screenshots of dashboards are available in the `powerbi/dashboard_screenshots` folder.
+Screenshots of dashboards & PowerBI file are available in the `powerbi` folder.
 
 ## Key Learnings
 - Cloud data pipeline design
